@@ -1,0 +1,2 @@
+# SCOTT
+implementation of SCOTT
