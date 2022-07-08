@@ -7,6 +7,4 @@ An implementation of SCOTT
    3) Example of USC-HAD data. 
    4) Example of ECochG data.
    
--USD-HAD contains one fold of processed human activity data (sampled & augmented).
-
--ECochG contains one fold of processed electrocochleography signal (sampled & augmented).
+-USD-HAD and ECochG are too large to put here. Please refer to the example in notebook, or raw data from link provided in paper.
