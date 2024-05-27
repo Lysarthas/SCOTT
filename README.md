@@ -1,5 +1,5 @@
 # SCOTT
-An implementation of SCOTT
+An implementation of paper [**Time Series Representation Learning with Supervised Contrastive Temporal Transformer](https://arxiv.org/abs/2403.10787)
 
 -notebook file contains: 
    1) Several functions used with SCOTT.
